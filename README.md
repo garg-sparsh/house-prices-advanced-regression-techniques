@@ -6,10 +6,15 @@ You can acess the dataset from https://www.kaggle.com/c/house-prices-advanced-re
 Here's a brief version of 79 Variables.
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+
 MSSubClass: The building class
+
 MSZoning: The general zoning classification
+
 LotFrontage: Linear feet of street connected to property
+
 LotArea: Lot size in square feet
+
 Street: Type of road access
 Alley: Type of alley access
 LotShape: General shape of property
