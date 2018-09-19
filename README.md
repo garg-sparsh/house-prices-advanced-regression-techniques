@@ -1,4 +1,4 @@
-# house-prices-advanced-regression-techniques
+# House-Prices-Advanced-Regression-techniques
 #Kaggle Competetion
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, the ultimate goal is to predict the final price of each home.
 You can acess the dataset from https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
